@@ -1,1 +1,3 @@
 Dowolna zmiana w pliku
+
+A teraz inna zmiana.
